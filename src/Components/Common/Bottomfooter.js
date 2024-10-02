@@ -27,15 +27,14 @@ const Bottomfooter = () => {
         <div className="row">
           <div className="col-lg-12 bottom_footer">
             <p>
-              Powered by Joie de Vivre International Insurance Brokerage LLC,
-              Regulated by the UAE Insurance Authority{" "}
-              <b> (Registration Number : 159)</b>
+              Powered by Test{" "}
+              <b> (Registration Number : 1234)</b>
             </p>
           </div>
         </div>
         <div className="row" style={{ textAlign: "center" }}>
           <div className="col-lg-12">
-            <p className="copyright12">© Company 2023 All Rights Reserved</p>
+            <p className="copyright12">© Company 2024 All Rights Reserved</p>
           </div>
         </div>
       </div>
